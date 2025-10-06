@@ -1,5 +1,5 @@
 {
-  "name": "astro-weather",
+  "name": "LunarForcast",
   "version": "1.0.0",
   "description": "Interactive 3D globe with weather data visualization",
   "main": "index.js",
